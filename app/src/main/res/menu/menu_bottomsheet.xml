@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/senin" android:title="Senin" android:icon="@drawable/monday48"/>
+    <item android:id="@+id/selasa" android:title="Selasa" android:icon="@drawable/tuesday48"/>
+    <item android:id="@+id/rabu" android:title="Rabu" android:icon="@drawable/wednesday48"/>
+    <item android:id="@+id/kamis" android:title="Kamis" android:icon="@drawable/thursday48"/>
+    <item android:id="@+id/jumat" android:title="Jumat" android:icon="@drawable/friday48"/>
+    <item android:id="@+id/sabtu" android:title="Sabtu" android:icon="@drawable/saturday48"/>
+    <item android:id="@+id/minggu" android:title="Minggu" android:icon="@drawable/sunday48"/>
+    <group android:id="@+id/helpgroup">
+        <item android:id="@+id/help" android:title="Help" android:icon="@drawable/alarm_blue48"/>
+    </group>
+</menu>
